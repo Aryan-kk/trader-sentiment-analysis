@@ -25,4 +25,4 @@ Python, Pandas, Matplotlib, Seaborn
 ## Strategy Recommendations
 1. Reduce trade size during Fear periods to manage risk.
 2. Increase trading activity cautiously during Greed periods.
-# trader-sentiment-analysis
+
